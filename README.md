@@ -1,6 +1,7 @@
 # Yadee
 
-![Yadee](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
+![Yadee](https://user-images.githubusercontent.com/76579213/115905706-1a5ef080-a484-11eb-94c4-bbd680ce3951.png)
+
 
 ## Introduction
 
